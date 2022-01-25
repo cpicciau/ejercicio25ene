@@ -10,7 +10,7 @@
 @import "./css/mediaquery.css";
 
 
-.flex {
+header {
     background-color: aquamarine;
     display:flex;
     align-items: center;
