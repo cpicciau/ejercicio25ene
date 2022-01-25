@@ -13,13 +13,20 @@
 header {
     background-color: aquamarine;
     display:flex;
+}
+
+.flex {
+    height: 12.5em;
+    padding: 2em;
+    justify-content: space-between;
+    padding: 2em;
+    display: flex;
     align-items: center;
     justify-content: center;
+
 }
 
 .menu {
     justify-content: space-between;
 }
-
-
 
