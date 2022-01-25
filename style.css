@@ -9,11 +9,9 @@
 @import "./css/layout.css";
 @import "./css/mediaquery.css";
 
-.container {
-    padding: 1em; 
-}
 
 .flex {
+    padding: 1em;
     background-color: aquamarine;
     display:flex;
     align-items: center;
