@@ -25,7 +25,6 @@ img {
     display: flex;
     align-items: center;
     justify-content: center;
-
 }
 
 .menu {
@@ -33,3 +32,6 @@ img {
     flex-grow: 1;
 }
 
+.separacion {
+    flex-grow: 4;
+}
