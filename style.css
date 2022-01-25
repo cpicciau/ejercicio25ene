@@ -9,11 +9,16 @@
 @import "./css/layout.css";
 @import "./css/mediaquery.css";
 
+.container {
+    padding: 1em; 
+}
+
 .flex {
-    padding: 50px;
     display:flex;
     align-items: center;
 }
 
-
+.menu {
+    display:flex
+}
 
