@@ -10,28 +10,22 @@
 @import "./css/mediaquery.css";
 
 
-header {
-    background-color: aquamarine;
+.flex{
+    padding: 50px;
+    height: 300px;
     display:flex;
-}
-
-img {
-    display: inline;
-}
-
-.flex {
-    height: 12.5em;
-    padding: 2em;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.menu {
     justify-content: space-between;
+    align-items: center;
+    }
+
+.img {
     flex-grow: 1;
 }
-
+    
+.menu {
+        flex-grow: 1;
+}
+    
 .separacion {
-    flex-grow: 4;
+        flex-grow: 2;
 }
